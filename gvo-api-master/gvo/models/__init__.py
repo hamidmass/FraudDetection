@@ -1,0 +1,15 @@
+import gvo.models.company
+import gvo.models.company_user
+import gvo.models.historical_service_price
+import gvo.models.phone_number
+import gvo.models.phone_number_owner_company
+import gvo.models.phone_number_owner_user
+import gvo.models.phone_number_transaction_company
+import gvo.models.phone_number_transaction_user
+import gvo.models.prepaid_account
+import gvo.models.subscription_company
+import gvo.models.subscription_user
+import gvo.models.transaction
+import gvo.models.transaction_company
+import gvo.models.transaction_user
+import gvo.models.user
