@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+.loginForm {
+    width: 100%;
+    max-width: 350px;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+    margin-top: 160px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.logoName {
+    font-family:'Lobster';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.loginForm input {
+    background-color: #C8C8C8;
+    border: 1px solid black;
+    margin-top: 20px;
+    font-weight: bold;
+    border-radius: 1.5625em;
+}
+
+.Button {
+    width: 154px;
+    height: 35px;
+    color: black;
+    font-weight: bold;
+    background-color: #C8C8C8;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 1.5625em;
+}
+
+.Button:hover {
+    color: black;
+    background-color: #66FCF1;
+}
+
+.loginForm div a {
+    color: black;
+}
+
+.FacebookGoogle Button {
+    border-radius: 1.5625em;
+    border: 1px solid black;    
+    width: 100%;
+    max-width: 350px;
+    background-color: #C8C8C8;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.FacebookGoogle Button:hover {
+    color: black;
+    background-color: #66FCF1;
+}
+.Google{
+    border-radius: 99999px;
+    width: 24px;
+    height: 24px;
+    float: left;
+}
+
+.Facebook {
+    border-radius: 99999px;
+    width: 26px;
+    height: 26px;
+    float: left;
+    background-color: #3b5998;
+}
+
+.line {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: black;
+    position: relative;
+    z-index: 1;
+}
+.line:before {
+        border-top: 1px solid black;
+        content:"";
+        margin: 0 auto; 
+        position: absolute; 
+        top: 50%; left: 0; right: 0; bottom: 0;
+        width: 100%;
+        z-index: -1;
+}
+
+.line span { 
+    background: #C8C8C8; 
+    padding: 0 15px; 
+}
