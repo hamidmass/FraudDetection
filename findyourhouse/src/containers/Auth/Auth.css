@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+.loginForm {
+    width: 100%;
+    max-width: 350px;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+    margin-top: 160px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.logoName {
+    font-family:'Lobster';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.loginForm input {
+    background-color: #C8C8C8;
+    border: 1px solid black;
+    margin-top: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.Button {
+    width: 154px;
+    height: 35px;
+    color: black;
+    font-weight: bold;
+    background-color: #C8C8C8;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.Button:hover {
+    color: black;
+    font-weight: bold;
+    background-color: #66FCF1;
+}
+
+.loginForm div a {
+    color: black;
+}

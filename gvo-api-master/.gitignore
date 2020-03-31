@@ -1,8 +1,0 @@
-.idea/
-*.iml
-postgres/
-env/
-migrations/
-*.pyc
-*.pyo
-*.env
